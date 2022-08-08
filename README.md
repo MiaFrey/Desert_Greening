@@ -36,6 +36,13 @@ Since planting trees including desert areas would sequester 107GtC and consideri
 ## Conclusions
 In conclusion, the results are positive but highly sensitive to the amount of cloud coverage, resulting from new vegetation. In subsequent steps, we will conduct a sensitivity analysis and present each step of the process in more detail. Furthermore, we plan to train a model to predict the albedo change and cloud coverage resulting from new vegetation in a given area. Desert greening helps in mitigating climate.
 
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Massimo Poretti](https://www.linkedin.com/in/poretti-massimo/)
+- [Mia Frey](https://www.linkedin.com/in/mia-frey-28209a208/)
+- [Cédric Mesnage](https://www.linkedin.com/in/cedricmesnage/)
+- [Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/)
+
 ## References
 <a id="1">[1]</a> D. L. Hartmann. Global physical climatology, volume 103. Newnes, 2015. <br>
 <a id="2">[2]</a> C. Heinze et al. Esd reviews: Climate feedbacks in the earth system and prospects for their evaluation. Earth System Dynamics, 10(3):379–452, 2019. <br>

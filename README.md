@@ -56,7 +56,7 @@ In conclusion, the results are positive but highly sensitive to the amount of cl
 <a id="10">[10]</a> J. M. Wallace and P. V. Hobbs. Atmospheric science: an introductory survey, volume 92. Elsevier, 2006. <br>
 <a id="11">[11]</a> S. G. Warren et al. Global distribution of total cloud cover and cloud type amounts over land. Technical report, Washington Univ., Seattle (USA). Dept. of Atmospheric Sciences; Colorado Univ., Boulder (USA), 1986. <br>
 <a id="12">[12]</a> We note here the Saudi Arabia announcement of planting 10 billion trees (https://www.reuters.com/world/ middle-east/saudi-arabia-sees-fields-green-with-major-tree-planting-drive-2021-03-27/) and the Weather makers project (https: //theweathermakers.nl/) to green the Sinai.<br>
-<a id="13">[13]</a> GAT (https://www.ncdc.noaa.gov/cag/global/time- series/globe/land_ocean/ytd/12/1880- 2020.csv), CO2 (https://data.giss. nasa.gov/modelforce/ghgases/Fig1A.ext.txt), recent CO2 (ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_mlo.txt), Water Vapor(https://gml.noaa.gov/ozwv/wvap/) <br>
+<a id="13">[13]</a> GAT (https://www.ncdc.noaa.gov/cag/global/time- series/globe/land_ocean/ytd/12/1880- 2020.csv), CO2 (https://data.giss. nasa.gov/modelforce/ghgases/Fig1A.ext.txt), recent CO2 (ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_mlo.txt), Water Vapor (https://gml.noaa.gov/ozwv/wvap/) <br>
 
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
